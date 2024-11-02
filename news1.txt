@@ -1,9 +1,0 @@
-{
-	"news": {
-		"title ": "Noviembre de pagos del Bienestar 2024: ¿Qué programas sociales tendrán un último depósito este año?",
-		"image ": [{
-			"imageName": "https://elfinanciero.com.mx/resizer/v2/TFDDB65B45DP5N7FQ2EAYDRVTI.jpg?smart=true&auth=ffac85a4b4edc7b45d46d20a2ea8ff0a7607dd3cec079e3cdfa8e2e25866b24c&width=1776&height=999"
-		}],
-		"content ": "La Secretaría del Bienestar dispersará paso del bimestre noviembre- diciembre para estos programas sociales; además, ya se inició el registro para los nuevos proyectos puestos en marcha por la presidenta Claudia Sheinbaum.\nA través de la Secretaría del Bienestar, Claudia Sheinbaum, presidenta de nuestro país, seguirá otorgando los apoyos económicos de programas sociales como la Pensión del Bienestar e incluso implementará otros en su sexenio, como la Beca Universal o Rita Cetina.\nPor ello, a casi un mes de su Gobierno, se comenzarán a dispersar los pagos de programas sociales del último bimestre del 2024, es decir, noviembre y diciembre.\nAriana Montiel, titular de la Secretaría del Bienestar, informó el lunes 28 de octubre que será el 4 de noviembre cuando se publique el calendario de pagos de la Pensión del Bienestar para adultos mayores de 65 años, con un monto de 6 mil pesos.\nOtros programas sociales que se dispersarán y que corresponden al último bimestre del 2024 son: Pensión Bienestar para Personas con Discapacidad, que da 3 mil 100 pesos y la Pensión Bienestar para Niños y Niñas, Hijos de Madres Trabajadoras, con montos de mil 600 a 3 mil 600 pesos."
-	}
-}
