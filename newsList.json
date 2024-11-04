@@ -1,20 +1,25 @@
 {
 	"images": [{
-		"imageUrl": "https://elfinanciero.com.mx/resizer/v2/5PVKHELCDBGKTJQWNXBXSWDIOQ.jpeg?smart=true&auth=eb16dbcf2883ac1ec7b02497eb381ee4e6b3456bde080b94f1cc0649a0fd5b96&width=1600&height=900"
+		"imageUrl": "/osseal/20241102/8dd8e818-24a5-47dc-a199-881f6765e2a6.jpg"
 	}, {
-		"imageUrl": "https://elfinanciero.com.mx/resizer/v2/SNIUV45RBNGHZAARYHDGRX7MPM.jpg?smart=true&auth=0046625ce02c3fad383e1087339e4f3f0dbef19985d1850b8ea312028fc1a58a&width=1200&height=675"
+		"imageUrl": "/osseal/20241102/3925c303-3512-498a-b42c-15d85fe8b499.jpg"
 	}, {
-		"imageUrl": "https://elfinanciero.com.mx/resizer/v2/TFDDB65B45DP5N7FQ2EAYDRVTI.jpg?smart=true&auth=ffac85a4b4edc7b45d46d20a2ea8ff0a7607dd3cec079e3cdfa8e2e25866b24c&width=1776&height=999"
+		"imageUrl": "/osseal/20241102/8b268fc4-8acd-4c7b-a307-f0144dad462b.jpg"
 	}],
 	"newsList": [{
 		"title ": "Noviembre de pagos del Bienestar 2024: ¿Qué programas sociales tendrán un último depósito este año?",
-		"image ": "https://elfinanciero.com.mx/resizer/v2/TFDDB65B45DP5N7FQ2EAYDRVTI.jpg?smart=true&auth=ffac85a4b4edc7b45d46d20a2ea8ff0a7607dd3cec079e3cdfa8e2e25866b24c&width=1776&height=999",
-		"date ": "noviembre 01, 2024",
-		"newUrl":"/wang-jc/FinancialNews/master/news1.json"
+		"image ": "/osseal/20241102/8dd8e818-24a5-47dc-a199-881f6765e2a6.jpg",
+		"date": "noviembre 01, 2024",
+		"newsUrl": "/wang-jc/FinancialNews/master/news1.json"
+	}, {
+		"title ": "Noviembre de pagos del Bienestar 2024: ¿Qué programas sociales tendrán un último depósito este año?",
+		"image ": "/osseal/20241102/3925c303-3512-498a-b42c-15d85fe8b499.jpg",
+		"date ": "noviembre 02, 2024",
+		"newsUrl": "/wang-jc/FinancialNews/master/news2.json"
 	}, {
 		"title ": "Elecciones en EU 2024: ¿Los puertorriqueños le pueden ‘dar un susto’ a Trump? Piden voto de castigo",
-		"image ": "https://elfinanciero.com.mx/resizer/v2/SNIUV45RBNGHZAARYHDGRX7MPM.jpg?smart=true&auth=0046625ce02c3fad383e1087339e4f3f0dbef19985d1850b8ea312028fc1a58a&width=1200&height=675",
-		"date ": "noviembre 01, 2024",
-		"newUrl":"/wang-jc/FinancialNews/master/news2.json"
+		"image ": "/osseal/20241102/8b268fc4-8acd-4c7b-a307-f0144dad462b.jpg",
+		"date ": "noviembre 03, 2024",
+		"newsUrl": "/wang-jc/FinancialNews/master/news3.json"
 	}]
 }
