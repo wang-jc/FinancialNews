@@ -3,8 +3,6 @@
 		"imageUrl": "news1.jpg"
 	}, {
 		"imageUrl": "news2.jpg"
-	}, {
-		"imageUrl": "news3.jpg"
 	}],
 	"newsList": [{
 		"title": "Noviembre de pagos del Bienestar 2024: ¿Qué programas sociales tendrán un último depósito este año?",
@@ -16,10 +14,5 @@
 		"image": "news2.jpg",
 		"date": "noviembre 02, 2024",
 		"newsUrl": "news2.json"
-	}, {
-		"title": "Elecciones en EU 2024: ¿Los puertorriqueños le pueden ‘dar un susto’ a Trump? Piden voto de castigo",
-		"image": "news3.jpg",
-		"date": "noviembre 03, 2024",
-		"newsUrl": "news3.json"
 	}]
 }
