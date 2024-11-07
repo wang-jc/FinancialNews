@@ -1,22 +1,45 @@
 {
 	"images": [{
-		"imageUrl": "news1.jpg"
+		"imageUrl": "news7.jpg"
 	}, {
-		"imageUrl": "news2.jpg"
+		"imageUrl": "news6.jpg"
+	}, {
+		"imageUrl": "news5.jpg"
 	}],
 	"newsList": [{
-		"title": "Noviembre de pagos del Bienestar 2024: ¿Qué programas sociales tendrán un último depósito este año?",
-		"image": "news1.jpg",
-		"date": "noviembre 03, 2024",
-		"newsUrl": "news1.json"
+		"title": "El secretario de Economía, Marcelo Ebrard, acordó con una delegación empresarial de la India de alto nivel trabajar en conjunto para potenciar el comercio y las inversiones entre ambos países en sectores clave.",
+		"image": "news7.jpg",
+		"date": "07/11/2024",
+		"newsUrl": "news7.json"
 	}, {
-		"title": "Noviembre de pagos del Bienestar 2024: ¿Qué programas sociales tendrán un último depósito este año?",
+		"title": "La Secretaría de Economía se compromete en reunión del G20 a avanzar acciones para cerrar brechas de género en industrias y comercio",
+		"image": "news6.jpg",
+		"date": "07/11/2024",
+		"newsUrl": "news6.json"
+	}, {
+		"title": "Acuerdan impulsar negocios entre México y Francia",
+		"image": "news5.jpg",
+		"date": "06/11/2024",
+		"newsUrl": "news5.json"
+	}, {
+		"title": "Premio de Sostenibilidad 2024 - Nobel Sustainability Trust Claudia Sheinbaum",
+		"image": "news4.jpg",
+		"date": "05/11/2024",
+		"newsUrl": "news4.json"
+	}, {
+		"title": "El Fondo Monetario Internacional (FMI) ha indicado que las políticas monetarias restrictivas de México deberían ser desmanteladas gradualmente.",
+		"image": "news3.jpg",
+		"date": "05/11/2024",
+		"newsUrl": "news3.json"
+	}, {
+		"title": "El objetivo para la Tasa de Interés Interbancaria a 1 día (tasa objetivo) disminuye en 25 puntos base",
 		"image": "news2.jpg",
-		"date": "noviembre 02, 2024",
+		"date": "05/11/2024",
 		"newsUrl": "news2.json"
 	}, {
-		"title": "Elecciones en EU 2024: ¿Los puertorriqueños le pueden ‘dar un susto’ a Trump? Piden voto de castigo",
-		"date": "noviembre 03, 2024",
-		"newsUrl": "news3.json"
+		"title": "El Fondo Monetario Internacional ratifica que México continúa cumpliendo con los criterios de habilitación de la Línea de Crédito Flexible",
+		"image": "news1.jpg",
+		"date": "04/11/2024",
+		"newsUrl": "news1.json"
 	}]
 }
