@@ -4,6 +4,11 @@
 	}, {
 		"imageUrl": "news1.png"
 	}],
+	"newsUrls": [{
+		"newsUrl": "news2.json"
+	}, {
+		"newsUrl": "news1.json"
+	}],
 	"newsList": [{
 		"title": "El secretario de Economía, Marcelo Ebrard, acordó con una delegación empresarial de la India de alto nivel trabajar en conjunto para potenciar el comercio y las inversiones entre ambos países en sectores clave.",
 		"image": "news7.png",
@@ -29,5 +34,15 @@
 		"image": "news3.jpg",
 		"date": "05/11/2024",
 		"newsUrl": "news3.json"
+	}, {
+		"title": "El objetivo para la Tasa de Interés Interbancaria a 1 día (tasa objetivo) disminuye en 25 puntos base",
+		"image": "news2.png",
+		"date": "05/11/2024",
+		"newsUrl": "news2.json"
+	}, {
+		"title": "El Fondo Monetario Internacional ratifica que México continúa cumpliendo con los criterios de habilitación de la Línea de Crédito Flexible",
+		"image": "news1.jpg",
+		"date": "04/11/2024",
+		"newsUrl": "news1.json"
 	}]
 }
