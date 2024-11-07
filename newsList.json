@@ -1,29 +1,29 @@
 {
 	"images": [{
-		"imageUrl": "news7.jpg"
+		"imageUrl": "news7.png"
 	}, {
-		"imageUrl": "news6.jpg"
+		"imageUrl": "news6.png"
 	}, {
-		"imageUrl": "news5.jpg"
+		"imageUrl": "news5.png"
 	}],
 	"newsList": [{
 		"title": "El secretario de Economía, Marcelo Ebrard, acordó con una delegación empresarial de la India de alto nivel trabajar en conjunto para potenciar el comercio y las inversiones entre ambos países en sectores clave.",
-		"image": "news7.jpg",
+		"image": "news7.png",
 		"date": "07/11/2024",
 		"newsUrl": "news7.json"
 	}, {
 		"title": "La Secretaría de Economía se compromete en reunión del G20 a avanzar acciones para cerrar brechas de género en industrias y comercio",
-		"image": "news6.jpg",
+		"image": "news6.png",
 		"date": "07/11/2024",
 		"newsUrl": "news6.json"
 	}, {
 		"title": "Acuerdan impulsar negocios entre México y Francia",
-		"image": "news5.jpg",
+		"image": "news5.png",
 		"date": "06/11/2024",
 		"newsUrl": "news5.json"
 	}, {
 		"title": "Premio de Sostenibilidad 2024 - Nobel Sustainability Trust Claudia Sheinbaum",
-		"image": "news4.jpg",
+		"image": "news4.png",
 		"date": "05/11/2024",
 		"newsUrl": "news4.json"
 	}, {
@@ -33,7 +33,7 @@
 		"newsUrl": "news3.json"
 	}, {
 		"title": "El objetivo para la Tasa de Interés Interbancaria a 1 día (tasa objetivo) disminuye en 25 puntos base",
-		"image": "news2.jpg",
+		"image": "news2.png",
 		"date": "05/11/2024",
 		"newsUrl": "news2.json"
 	}, {
