@@ -2,7 +2,7 @@
 	"images": [{
 		"imageUrl": "news2.png"
 	}, {
-		"imageUrl": "news1.png"
+		"imageUrl": "news1.jpg"
 	}],
 	"newsUrls": [{
 		"newsUrl": "news2.json"
