@@ -12,27 +12,27 @@
 	"newsList": [{
 		"title": "El secretario de Economía, Marcelo Ebrard, acordó con una delegación empresarial de la India de alto nivel trabajar en conjunto para potenciar el comercio y las inversiones entre ambos países en sectores clave.",
 		"image": "news7.png",
-		"date": "07/11/2024",
+		"date": "13/11/2024",
 		"newsUrl": "news7.json"
 	}, {
 		"title": "La Secretaría de Economía se compromete en reunión del G20 a avanzar acciones para cerrar brechas de género en industrias y comercio",
 		"image": "news6.png",
-		"date": "07/11/2024",
+		"date": "13/11/2024",
 		"newsUrl": "news6.json"
 	}, {
 		"title": "Acuerdan impulsar negocios entre México y Francia",
 		"image": "news5.png",
-		"date": "06/11/2024",
+		"date": "12/11/2024",
 		"newsUrl": "news5.json"
 	}, {
 		"title": "Premio de Sostenibilidad 2024 - Nobel Sustainability Trust Claudia Sheinbaum",
 		"image": "news4.png",
-		"date": "05/11/2024",
+		"date": "12/11/2024",
 		"newsUrl": "news4.json"
 	}, {
 		"title": "El Fondo Monetario Internacional (FMI) ha indicado que las políticas monetarias restrictivas de México deberían ser desmanteladas gradualmente.",
 		"image": "news3.jpg",
-		"date": "05/11/2024",
+		"date": "11/11/2024",
 		"newsUrl": "news3.json"
 	}]
 }
