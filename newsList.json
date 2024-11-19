@@ -10,6 +10,16 @@
 		"newsUrl": "news1.json"
 	}],
 	"newsList": [{
+		"title": "Moody’s cambia de ‘estable’ a ‘negativa’ la perspectiva de calificación de México",
+		"image": "news9.png",
+		"date": "17/11/2024",
+		"newsUrl": "news9.json"
+	}, {
+		"title": "México ‘saldrá ganón’ de reconfiguración del comercio: Nobel de Economía pide aprovechar nearshoring",
+		"image": "news8.png",
+		"date": "17/11/2024",
+		"newsUrl": "news8.json"
+	},{
 		"title": "El secretario de Economía, Marcelo Ebrard, acordó con una delegación empresarial de la India de alto nivel trabajar en conjunto para potenciar el comercio y las inversiones entre ambos países en sectores clave.",
 		"image": "news7.png",
 		"date": "13/11/2024",
