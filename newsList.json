@@ -10,6 +10,11 @@
 		"newsUrl": "news1.json"
 	}],
 	"newsList": [{
+		"title": "Banxico se adelanta al Buen Fin: Recorta tasa de interés y queda en 10.25%",
+		"image": "news10.png",
+		"date": "20/11/2024",
+		"newsUrl": "news10.json"
+	},{
 		"title": "Moody’s cambia de ‘estable’ a ‘negativa’ la perspectiva de calificación de México",
 		"image": "news9.png",
 		"date": "17/11/2024",
