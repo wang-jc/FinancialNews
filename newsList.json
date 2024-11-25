@@ -10,6 +10,16 @@
 		"newsUrl": "news1.json"
 	}],
 	"newsList": [{
+		"title": "Déficit fiscal: SHCP reconoce un gran esfuerzo para bajarlo en 2 puntos del PIB",
+		"image": "news12.png",
+		"date": "24/11/2024",
+		"newsUrl": "news12.json"
+	},{
+		"title": "Otra mala noticia de Moody’s para México: Recorta pronóstico de crecimiento a 1.5% para 2024",
+		"image": "news11.png",
+		"date": "23/11/2024",
+		"newsUrl": "news11.json"
+	},{
 		"title": "Banxico se adelanta al Buen Fin: Recorta tasa de interés y queda en 10.25%",
 		"image": "news10.png",
 		"date": "20/11/2024",
