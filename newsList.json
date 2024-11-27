@@ -11,6 +11,11 @@
 	}],
 	"newsList": [{
 		"title": "Déficit fiscal: SHCP reconoce un gran esfuerzo para bajarlo en 2 puntos del PIB",
+		"image": "news13.png",
+		"date": "26/11/2024",
+		"newsUrl": "news13.json"
+	},{
+		"title": "Déficit fiscal: SHCP reconoce un gran esfuerzo para bajarlo en 2 puntos del PIB",
 		"image": "news12.png",
 		"date": "24/11/2024",
 		"newsUrl": "news12.json"
