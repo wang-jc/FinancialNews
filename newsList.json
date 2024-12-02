@@ -10,6 +10,11 @@
 		"newsUrl": "news1.json"
 	}],
 	"newsList": [{
+		"title": "Panorama ‘alentador’ para México: PIB crece 7.3% anual en segundo trimestre del 2024",
+		"image": "news14.png",
+		"date": "2/12/2024",
+		"newsUrl": "news14.json"
+	},{
 		"title": "Déficit fiscal: SHCP reconoce un gran esfuerzo para bajarlo en 2 puntos del PIB",
 		"image": "news13.png",
 		"date": "26/11/2024",
