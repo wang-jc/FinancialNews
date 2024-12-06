@@ -10,6 +10,11 @@
 		"newsUrl": "news1.json"
 	}],
 	"newsList": [{
+		"title": "Peso mexicano cae por fortaleza del dólar tras amenaza de Trump a los BRICS",
+		"image": "news15.png",
+		"date": "6/12/2024",
+		"newsUrl": "news15.json"
+	},{
 		"title": "Panorama ‘alentador’ para México: PIB crece 7.3% anual en segundo trimestre del 2024",
 		"image": "news14.png",
 		"date": "2/12/2024",
