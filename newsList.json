@@ -10,6 +10,11 @@
 		"newsUrl": "news2.json"
 	}],
 	"newsList": [{
+		"title": "Confianza del consumidor cae en noviembre, hay mayor pesimismo por escenario económico presente y futuro",
+		"image": "news19.png",
+		"date": "13/12/2024",
+		"newsUrl": "news19.json"
+	},{
 		"title": "Gobierno anuncia aumento de 12% al salario mínimo para 2025",
 		"image": "news17.png",
 		"date": "12/12/2024",
