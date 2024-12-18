@@ -10,6 +10,16 @@
 		"newsUrl": "news2.json"
 	}],
 	"newsList": [{
+		"title": "Sector privado espera inversiones foráneas por 60,000 mdd en 2025",
+		"image": "news21.png",
+		"date": "18/12/2024",
+		"newsUrl": "news21.json"
+	},{
+		"title": "En 2025 habrá bajo crecimiento económico en México pero no recesión: Franklin Templeton",
+		"image": "news20.png",
+		"date": "18/12/2024",
+		"newsUrl": "news20.json"
+	},{
 		"title": "Confianza del consumidor cae en noviembre, hay mayor pesimismo por escenario económico presente y futuro",
 		"image": "news19.png",
 		"date": "13/12/2024",
