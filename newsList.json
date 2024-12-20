@@ -10,6 +10,11 @@
 		"newsUrl": "news2.json"
 	}],
 	"newsList": [{
+		"title": "Industria automotriz impulsó ventas minoristas en 2023",
+		"image": "news22.png",
+		"date": "20/12/2024",
+		"newsUrl": "news22.json"
+	},{
 		"title": "Sector privado espera inversiones foráneas por 60,000 mdd en 2025",
 		"image": "news21.png",
 		"date": "18/12/2024",
