@@ -1,15 +1,20 @@
 {
 	"images": [{
-		"imageUrl": "news18.png"
+		"imageUrl": "news24.png"
 	}, {
-		"imageUrl": "news2.png"
+		"imageUrl": "news18.png"
 	}],
 	"newsUrls": [{
-		"newsUrl": "news18.json"
+		"newsUrl": "news24.json"
 	}, {
-		"newsUrl": "news2.json"
+		"newsUrl": "news18.json"
 	}],
 	"newsList": [{
+		"title": "Banxico podría discutir recorte tasa de hasta 50 puntos básicos en febrero pero dependerá del entorno",
+		"image": "news23.png",
+		"date": "27/12/2024",
+		"newsUrl": "news23.json"
+	},{
 		"title": "Industria automotriz impulsó ventas minoristas en 2023",
 		"image": "news22.png",
 		"date": "20/12/2024",
@@ -49,60 +54,5 @@
 		"image": "news14.png",
 		"date": "2/12/2024",
 		"newsUrl": "news14.json"
-	},{
-		"title": "Déficit fiscal: SHCP reconoce un gran esfuerzo para bajarlo en 2 puntos del PIB",
-		"image": "news13.png",
-		"date": "26/11/2024",
-		"newsUrl": "news13.json"
-	},{
-		"title": "Déficit fiscal: SHCP reconoce un gran esfuerzo para bajarlo en 2 puntos del PIB",
-		"image": "news12.png",
-		"date": "24/11/2024",
-		"newsUrl": "news12.json"
-	},{
-		"title": "Otra mala noticia de Moody’s para México: Recorta pronóstico de crecimiento a 1.5% para 2024",
-		"image": "news11.png",
-		"date": "23/11/2024",
-		"newsUrl": "news11.json"
-	},{
-		"title": "Banxico se adelanta al Buen Fin: Recorta tasa de interés y queda en 10.25%",
-		"image": "news10.png",
-		"date": "20/11/2024",
-		"newsUrl": "news10.json"
-	},{
-		"title": "Moody’s cambia de ‘estable’ a ‘negativa’ la perspectiva de calificación de México",
-		"image": "news9.png",
-		"date": "17/11/2024",
-		"newsUrl": "news9.json"
-	},{
-		"title": "México ‘saldrá ganón’ de reconfiguración del comercio: Nobel de Economía pide aprovechar nearshoring",
-		"image": "news8.png",
-		"date": "17/11/2024",
-		"newsUrl": "news8.json"
-	},{
-		"title": "El secretario de Economía, Marcelo Ebrard, acordó con una delegación empresarial de la India de alto nivel trabajar en conjunto para potenciar el comercio y las inversiones entre ambos países en sectores clave.",
-		"image": "news7.png",
-		"date": "13/11/2024",
-		"newsUrl": "news7.json"
-	}, {
-		"title": "La Secretaría de Economía se compromete en reunión del G20 a avanzar acciones para cerrar brechas de género en industrias y comercio",
-		"image": "news6.png",
-		"date": "13/11/2024",
-		"newsUrl": "news6.json"
-	}, {
-		"title": "Acuerdan impulsar negocios entre México y Francia",
-		"image": "news5.png",
-		"date": "12/11/2024",
-		"newsUrl": "news5.json"
-	}, {
-		"title": "Premio de Sostenibilidad 2024 - Nobel Sustainability Trust Claudia Sheinbaum",
-		"image": "news4.png",
-		"date": "12/11/2024",
-		"newsUrl": "news4.json"
-	}, {
-		"title": "El Fondo Monetario Internacional (FMI) ha indicado que las políticas monetarias restrictivas de México deberían ser desmanteladas gradualmente.",
-		"image": "news3.jpg",
-		"date": "11/11/2024",
-		"newsUrl": "news3.json"
 	}]
 }
