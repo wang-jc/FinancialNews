@@ -10,6 +10,21 @@
 		"newsUrl": "news18.json"
 	}],
 	"newsList": [{
+		"title": "Venta de autos nuevos en México crece 9.8% en 2024",
+		"image": "news30.png",
+		"date": "4/2/2025",
+		"newsUrl": "news30.json"
+	},{
+		"title": "Gobierno de Sheinbaum realiza primera emisión de deuda por 8,500 mdd",
+		"image": "news29.png",
+		"date": "4/2/2025",
+		"newsUrl": "news29.json"
+	},{
+		"title": "Banco Sabadell impulsa al sector agroindustrial en México con financiamiento sostenible",
+		"image": "news28.png",
+		"date": "4/2/2025",
+		"newsUrl": "news28.json"
+	},{
 		"title": "¡Adiós “súper peso”! La moneda mexicana se deprecia 22.8% en 2024",
 		"image": "news27.png",
 		"date": "7/1/2025",
