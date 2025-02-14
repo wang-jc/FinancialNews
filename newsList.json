@@ -1,13 +1,13 @@
 {
 	"images": [{
-		"imageUrl": "news24.png"
+		"imageUrl": "news31.png"
 	}, {
-		"imageUrl": "news18.png"
+		"imageUrl": "news32.png"
 	}],
 	"newsUrls": [{
-		"newsUrl": "news24.json"
+		"newsUrl": "news31.json"
 	}, {
-		"newsUrl": "news18.json"
+		"newsUrl": "news32.json"
 	}],
 	"newsList": [{
 		"title": "Venta de autos nuevos en México crece 9.8% en 2024",
