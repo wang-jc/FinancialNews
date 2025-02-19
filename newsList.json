@@ -10,6 +10,16 @@
 		"newsUrl": "news32.json"
 	}],
 	"newsList": [{
+		"title": "Gobernadora de Banxico afirma que la lucha contra la inflación entra en una nueva fase",
+		"image": "news34.png",
+		"date": "19/2/2025",
+		"newsUrl": "news34.json"
+	},{
+		"title": "México enfrentaría una recesión y baja de calificación por aranceles de Trump, alerta Fitch",
+		"image": "news33.png",
+		"date": "19/2/2025",
+		"newsUrl": "news33.json"
+	},{
 		"title": "Venta de autos nuevos en México crece 9.8% en 2024",
 		"image": "news30.png",
 		"date": "4/2/2025",
