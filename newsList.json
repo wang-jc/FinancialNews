@@ -10,6 +10,12 @@
     "newsUrl" : "news32.json"
   } ],
   "newsList" : [ {
+    "parsedDate" : 1742525736,
+    "title" : "El turismo internacional en México crece un 8.5% en enero",
+    "image" : "6d44c346-79fa-4e96-8f2b-b42c775e8dcf.png",
+    "date" : "20/03/2025",
+    "newsUrl" : "news20250321105536104.json"
+  }, {
     "parsedDate" : 1742037798,
     "title" : "La inversión fija bruta de México creció un 3.4% en 2024",
     "image" : "db466356-f968-4f43-914c-b8cc5e2726a3.png",
@@ -63,11 +69,5 @@
     "image" : "news25.png",
     "date" : "7/1/2025",
     "newsUrl" : "news25.json"
-  }, {
-    "parsedDate" : 1735279803,
-    "title" : "Banxico podría discutir recorte tasa de hasta 50 puntos básicos en febrero pero dependerá del entorno",
-    "image" : "news23.png",
-    "date" : "27/12/2024",
-    "newsUrl" : "news23.json"
   } ]
 }
