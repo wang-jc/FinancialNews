@@ -10,6 +10,12 @@
     "newsUrl" : "news32.json"
   } ],
   "newsList" : [ {
+    "parsedDate" : 1745795407,
+    "title" : "FMI advierte que aranceles pueden tener mayores efectos indirectos para AL",
+    "image" : "551cfcc7-f76c-47ea-87de-a66fde19f970.png",
+    "date" : "27/04/2025",
+    "newsUrl" : "news20250428071007694.json"
+  }, {
     "parsedDate" : 1743622164,
     "title" : "Barclays recorta a la mitad previsión del PIB de México para 2025",
     "image" : "5c00f161-7908-4c82-be78-254496973341.png",
@@ -63,11 +69,5 @@
     "image" : "news27.png",
     "date" : "7/1/2025",
     "newsUrl" : "news27.json"
-  }, {
-    "parsedDate" : 1736230323,
-    "title" : "Indicadores IMEF reflejan estancamiento de la economía mexicana al cierre de 2024",
-    "image" : "news26.png",
-    "date" : "7/1/2025",
-    "newsUrl" : "news26.json"
   } ]
 }
