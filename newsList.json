@@ -10,6 +10,12 @@
     "newsUrl" : "news32.json"
   } ],
   "newsList" : [ {
+    "parsedDate" : 1748016681,
+    "title" : "Las remesas a México esquivan las políticas de Trump; suben 1.3% en primer trimestre",
+    "image" : "50367d03-3111-427e-8159-153032bce812.png",
+    "date" : "23/05/2025",
+    "newsUrl" : "news20250524001121506.json"
+  }, {
     "parsedDate" : 1745795407,
     "title" : "FMI advierte que aranceles pueden tener mayores efectos indirectos para AL",
     "image" : "551cfcc7-f76c-47ea-87de-a66fde19f970.png",
@@ -63,11 +69,5 @@
     "image" : "news28.png",
     "date" : "4/2/2025",
     "newsUrl" : "news28.json"
-  }, {
-    "parsedDate" : 1736230383,
-    "title" : "¡Adiós “súper peso”! La moneda mexicana se deprecia 22.8% en 2024",
-    "image" : "news27.png",
-    "date" : "7/1/2025",
-    "newsUrl" : "news27.json"
   } ]
 }
